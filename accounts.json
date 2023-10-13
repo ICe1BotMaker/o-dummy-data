@@ -1,0 +1,18 @@
+[
+    {
+        "id": "ice1github",
+        "password": "47d80e3d06534ada8054f085b1e04d1eb9e0ecab0c1ca75bdcc701a37170b7fd38d6583eb89eadc380445da3ccbed0ee488b86a69d5db61caf967e0b4b6d7427"
+    },
+    {
+        "id": "gseoon82",
+        "password": "60cd11cbb9f95a8f6b550f213b185d4d39e2c2468f111fc2850d3113298f2789372989504bd4fe768571534eb1d61946d08c9f57eb5d459797dc44639cd76ee1"
+    },
+    {
+        "id": "testuser",
+        "password": "d59f5c04ebe1aec32853570be286d5f894b455f3fc5b932e79f3c01143acd059d3b4604621067e8bb6eca956faebe53971d46530f0cb44bf59de4a2d90a8daa6"
+    },
+    {
+        "id": "root",
+        "password": "8fa46b8c73e1d37a5c0caeb40bbd4fec341988ffe54af0996ff59929b49fd88246f2c650c0e5e5ae8a55f1771a4c22aca3dfd06ead066318ae33cd893aaccae1"
+    }
+]
